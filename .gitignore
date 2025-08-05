@@ -1,0 +1,42 @@
+# R specific files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data files (don't commit potentially sensitive data)
+/data/*.csv
+/data/*.RData
+*.csv
+processed_data.RData
+trained_models.RData
+
+# Output files
+*.pdf
+*.html
+*.docx
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# But keep documentation files in docs/
+!docs/*.pdf
+
+# Temporary files
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# System-specific files
+~$*
+*.swp
+*.bak
