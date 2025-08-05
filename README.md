@@ -1,6 +1,6 @@
 # Phishing Website Detection System
 
-![ROC Curves](images/roc_curves.png)
+![ROC Curves](ROC.png)
 
 ## Overview
 This project implements machine learning classification models to identify fraudulent phishing websites with high accuracy. By analyzing URL and website features, the system can detect phishing attempts that might otherwise compromise user security.
