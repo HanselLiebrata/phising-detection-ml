@@ -17,7 +17,6 @@ trained_models.RData
 *.html
 *.docx
 *.xlsx
-*.png
 *.jpg
 *.jpeg
 *.gif
